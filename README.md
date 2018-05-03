@@ -37,4 +37,4 @@ var kelvin = // write your code here;
 console.log(// write your code here);
 ```
 
-Note that y
+Note that you will need to round down if you have extra decimal places.
