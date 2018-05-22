@@ -44,7 +44,7 @@ Note, decimals are fine, but as a challenge try and round to the nearest whole n
 If the first two human years of a dog's life count as 10.5 dog years each, and each human year following counts as 4 dog years, how old are you in dog years? Use JavaScript variables and operators to write some code to figure it out.
 
 ## Exercise 5
-The following code loops through the number 1 to 20. Inside the "for loop" (the brackets) write some code that console logs 'Fizz' if the number is divisble by 3, 'Buzz' if it's divisble by 5 and "FizzBuzz" if it's divisible by 3 and 5. Otherwise, console log the number.
+The following code loops through the numbers 1 to 20. Inside the "for loop" (the brackets) write some code that console logs 'Fizz' if the number is divisble by 3, 'Buzz' if it's divisble by 5 and "FizzBuzz" if it's divisible by 3 and 5. Otherwise, console log the number.
 
 ```js
 for (var i = 1; i < 20; i++) {
