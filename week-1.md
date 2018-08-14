@@ -8,7 +8,7 @@ Write some code to reverse a string. For example, the string:
 'hello'
 ```
 
-Sh2ould log:
+Should log:
 
 ```js
 'olleh'
