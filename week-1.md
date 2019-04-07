@@ -27,7 +27,7 @@ var lastName = 'Hendrix';
 ## Exercise 3
 Create a program that console logs the following sentence:
 
-'If you convert 98 degrees fahrenheit to kelvin, it's 305.'
+'If you convert 98 degrees fahrenheit to kelvin, it's 310.'
 
 Start with the following code:
 
