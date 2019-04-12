@@ -1,5 +1,5 @@
 # Week 1 Exercises
-The following exercises are to be completed after you finish the first 4 modules of the Pluralsight course and do the required reading. Feel free to your answers anywhere you see fit. In our next session, we're learn how to use the console and start writing JavaScript in files.
+The following exercises are to be completed after you finish the first 4 modules of the Treehouse course and do the required reading. Feel free to your answers anywhere you see fit. In our next session, we're learn how to use the console and start writing JavaScript in files.
 
 ## Exercise 1
 Write some code to reverse a string. For example, the string:
@@ -27,7 +27,7 @@ var lastName = 'Hendrix';
 ## Exercise 3
 Create a program that console logs the following sentence:
 
-'If you convert 98 degrees fahrenheit to kelvin, it's 305.'
+'If you convert 98 degrees fahrenheit to kelvin, it's 310.'
 
 Start with the following code:
 
