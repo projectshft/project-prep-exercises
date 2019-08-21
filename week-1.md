@@ -15,16 +15,6 @@ Should log:
 ```
 
 ## Exercise 2
-What will the following code log to the console?
-
-```j
-console.log(fullName);
-var firstName = 'Jimmy';
-var fullName = firstName + lastName;
-var lastName = 'Hendrix';
-```
-
-## Exercise 3
 Create a program that console logs the following sentence:
 
 'If you convert 98 degrees fahrenheit to kelvin, it's 310.'
@@ -40,6 +30,6 @@ console.log(// write your code here);
 
 Note, decimals are fine, but as a challenge try and round to the nearest whole number.
 
-## Exercise 4
+## Exercise 3
 If the first two human years of a dog's life count as 10.5 dog years each, and each human year following counts as 4 dog years, how old are you in dog years? Use JavaScript variables and operators to write some code to figure it out.
 ```
