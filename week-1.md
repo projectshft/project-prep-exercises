@@ -32,4 +32,3 @@ Note, decimals are fine, but as a challenge try and round to the nearest whole n
 
 ## Exercise 3
 If the first two human years of a dog's life count as 10.5 dog years each, and each human year following counts as 4 dog years, how old are you in dog years? Use JavaScript variables and operators to write some code to figure it out.
-```
